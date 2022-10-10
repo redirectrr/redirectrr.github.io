@@ -10,5 +10,5 @@ the default time is 0 but you can change it to what seconds
 do you want and also you can change the title and the text
 
 # <A HREF="https://bleeiter.github.io/redirect.rr/"> test redirect.rr </A>
-click and go to the redirect.rr website
+click and go to the redirect.rr test
 
